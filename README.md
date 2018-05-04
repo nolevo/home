@@ -4,7 +4,7 @@
 
 _2018 happy new year_
 
-[Abc](https://nolevo.ml/home/abc.html)    [Google](https://www.google.com/)    [Chinalife分支](https://github.com/nolevo/home/blob/gh-pages/index.html)   [文章上传位置](https://github.com/nolevo/nolevo.github.io/tree/hexo/source/_posts)   
+[Abc](http://nolevo.ml/home/abc.html)    [Google](https://www.google.com/)    [Chinalife分支](https://github.com/nolevo/home/blob/gh-pages/index.html)   [文章上传位置](https://github.com/nolevo/nolevo.github.io/tree/hexo/source/_posts)   
 u.nu/nolevo     u.nu/nolevoo
 
 [短网址](https://u.nu/nolevo)    [VAExposed发布頁](https://github.com/android-hacker/VAExposed/releases)    [Chrome离线包下载 ](https://chrome.nfz.moe/)    
