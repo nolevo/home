@@ -4,7 +4,7 @@
 
 _2018 happy new year_
 
-[Abc](http://nolevo.ml/home/abc.html)    [Google](https://www.google.com/)    [Chinalife分支](https://github.com/nolevo/home/blob/gh-pages/index.html)   [文章上传位置](https://github.com/nolevo/nolevo.github.io/tree/hexo/source/_posts)   
+[Abc](http://nolevo.ml/home/abc.html)    [Google](https://www.google.com/)    [分支](https://github.com/nolevo/home/blob/gh-pages/index.html)   [文章](https://github.com/nolevo/nolevo.github.io/tree/hexo/source/_posts)   
 u.nu/nolevo     u.nu/nolevoo
 
 [短网址](https://u.nu/nolevo)    [VAExposed发布頁](https://github.com/android-hacker/VAExposed/releases)    [Chrome离线包下载 ](https://chrome.nfz.moe/)    
@@ -21,7 +21,7 @@ u.nu/nolevo     u.nu/nolevoo
 
 
 
-# Chinalife
+# home
 1、新建Repository名为xxx
    新建gh-pages分支
 
