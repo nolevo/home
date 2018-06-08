@@ -1,6 +1,6 @@
 
 
-### [Nolevo's Notes](https://nolevo.ml/)
+### [Nolevo's Notes](http://nolevo.ml/)
 
 _2018 happy new year_
 
@@ -16,7 +16,7 @@ u.nu/nolevo     u.nu/nolevoo
 
 [坚果云主頁](https://www.jianguoyun.com/)    [坚果云登录](https://www.jianguoyun.com/p/DVnWH4YQj-raBhiW9kA)
 
-[wiki](https://github.com/nolevo/nolevo.github.io/wiki)
+[Wiki](https://github.com/nolevo/nolevo.github.io/wiki)
 
 
 
