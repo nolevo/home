@@ -1,0 +1,7 @@
+ata-SSD08G_HKHYPO14032505B0094
+
+
+qm set 103 -sata1 /dev/disk/by-id/ata-SSD08G_HKHYPO14032505B0094
+
+
+未用SDD
