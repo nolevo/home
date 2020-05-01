@@ -1,7 +1,5 @@
 
-
-
-# home
+# 如何新建分支
 1、新建Repository名为xxx
    新建gh-pages分支
 
