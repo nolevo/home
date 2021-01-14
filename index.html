@@ -275,8 +275,32 @@ http://localhost:4000/</br></br>
 				<h3>Nolevo's Notes</h3>
 				<em>2019</em>
 				
-                </br></br></br>
-				<p>上面取5位数，减去00365</br>
+                </br>		
+				</br></br>
+				<p>
+
+screen -r</br>
+
+rclone copy -P googlemugen:1 nolevoshare:google --min-size 500</br>
+
+rclone copy -P googlemugen:2 nolevoshare:google --min-size 500</br>
+
+
+
+####################以下命令是vultr下载完成后上传到onedrive########################</br>
+
+rclone copy -P /var/www/html/downloads nolevoshare:google --min-size 500</br>
+
+#################################################################################</br>
+
+rclone copy -P /var/www/html/downloads googlemugen:AAA --min-size 500</br>
+
+
+rclone copy -P googlemugen:AAA nolevoshare:google --min-size 500</br></br></br></br>
+
+
+
+				上面取5位数，减去00365</br>
                    下面取5位数，减去01203
 				</p>
 			</li>
