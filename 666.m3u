@@ -91,3 +91,33 @@ rtsp://183.59.156.50/PLTV/88888905/224/3221227581/100001000000000600000000044629
 rtsp://183.59.156.50/PLTV/88888905/224/3221227546/10000100000000060000000004462925_0.smil?0&accountinfo=%7E%7EV2.0%7EYv4E0PnGj04zyjOmc945ZA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 #EXTINF:-1,江苏卫视超清
 rtsp://183.59.156.50/PLTV/88888905/224/3221227607/10000100000000060000000004462927_0.smil?0&accountinfo=%7E%7EV2.0%7EtaFKhpvx9cngqOnQ0BM_mw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1, CCTV5
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1, CCTV5+
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1, CCTV6
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226393/index.m3u8
+#EXTINF:-1, CCTV7
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226192/index.m3u8
+#EXTINF:-1, CCTV8
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226391/index.m3u8
+#EXTINF:-1, CCTV9
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226197/index.m3u8
+#EXTINF:-1, CCTV10
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226189/index.m3u8
+#EXTINF:-1, CCTV11
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226240/index.m3u8
+#EXTINF:-1, CCTV12
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226190/index.m3u8
+#EXTINF:-1, CCTV13
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226233/index.m3u8
+#EXTINF:-1, CCTV14
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226193/index.m3u8
+#EXTINF:-1, CCTV15
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
+#EXTINF:-1, CCTV17
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226198/index.m3u8
+CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226465/index.m3u8
+CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226463/index.m3u8
