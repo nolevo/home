@@ -12,6 +12,8 @@ http://183.59.156.50:30001/PLTV/88888905/224/3221227518/index.m3u8?&accountinfo=
 http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
 #EXTINF:-1 ,CCTV3
 http://39.134.39.39/PLTV/88888888/224/3221226251/index.m3u8
+
+
 #EXTINF:-1, CCTV6
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226393/index.m3u8
 #EXTINF:-1, CCTV7
@@ -34,6 +36,36 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226465/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226463/index.m3u8
 
 
+#EXTINF:-1, 浙江卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/index.m3u8
+#EXTINF:-1, 湖南卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1, 江苏卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
+#EXTINF:-1, 东方卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
+#EXTINF:-1, 广东卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1, 北京卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226222/index.m3u8
+
+
+#EXTINF:-1, 辽宁卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226201/index.m3u8
+#EXTINF:-1, 重庆卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226202/index.m3u8
+#EXTINF:-1, 安徽卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226203/index.m3u8
+#EXTINF:-1, 湖北卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226206/index.m3u8
+#EXTINF:-1, 深圳卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
+#EXTINF:-1, 山东卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226209/index.m3u8
+#EXTINF:-1, 天津卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226204/index.m3u8
+#EXTINF:-1, 黑龙江卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
 
 
 
