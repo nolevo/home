@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1
-http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 #EXTINF:-1,CCTV-1高清hls
 http://183.59.156.50:30001/PLTV/88888905/224/3221227518/index.m3u8?&accountinfo=%7E%7EV2.0%7EzonGB3nAi1mw5psmAwJyYw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 #EXTINF:-1 ,CCTV2
