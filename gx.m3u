@@ -1,33 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV5 4M1080
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5 4M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV5 4M1080
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5 4M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225712/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV5 8M1080
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5 8M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV5 11M1080
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5 11M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225801/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+ 8M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225621/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕4K 31M2160HDR
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K 13M2160
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",4K 28M2160
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV1 4M1080
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1 4M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV1 4M1080
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225769/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV1 4M1080
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225885/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV1 4M1080
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225888/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV1 8M1080
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1 8M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV2 4M1080
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2 4M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225657/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV2 8M1080
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2 8M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3 4M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225713/index.m3u8
@@ -81,6 +69,21 @@ http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225830/index.m3u8
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225766/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17 8M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225833/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕4K 31M2160HDR
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K 13M2160
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",4K 28M2160
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1 4M1080
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1 4M1080
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225885/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1 4M1080
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225888/index.m3u8
+
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视 4M1080
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225696/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视 4M1080
