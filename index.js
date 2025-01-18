@@ -3,7 +3,7 @@ const wsUrl = 'wss://fagedongxi.com/ws';
 var users = [];
 var me = new XChatUser();
 
-// 添加当前传输用户的引用
+// 添加当前传输用户的引
 let currentTransferUser = null;
 let currentNickname = '';
 
